@@ -12,4 +12,5 @@ We present our audio samples as follows:
 ​​Ablation Study​​: Features ablation samples from LJSpeech, including:
 
 Results without the adversarial loss module
+
 Results without MRSTFT components
