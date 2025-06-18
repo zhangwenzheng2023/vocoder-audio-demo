@@ -1,4 +1,4 @@
-# vocoder-audio-demo
+# audio-demo
 PhaseGAN: A Phase-Regenerating GAN for a Lightweight, Artifact-Free, and High-Fidelity Mel-Spectrogram Neural Vocoder
 
 We present our audio samples as follows:
